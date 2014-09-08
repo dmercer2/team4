@@ -17,4 +17,5 @@
   <ul>- Partial/Incomplete Books (ex. missing chapters)</ul>
   <ul>- Incorrect translations</ul>
   <ul>- Whether words with punctuation in them count as the same word as the version without punctuation changes results</ul>
+  <ul>- Names in the text. Maybe context dependent, but not very informative when trying to identify author differences based upon         word preference</ul>
 </p>
